@@ -1,5 +1,5 @@
 #!/bin/bash
 
 
-name = "/root/alx-system_engineering-devops/0x00-shell_basics"
-echo $name
+alias p='pwd'
+echo $p
